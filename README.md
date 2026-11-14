@@ -1,1 +1,1 @@
-# Jopify-AI
+# Jobify-AI
